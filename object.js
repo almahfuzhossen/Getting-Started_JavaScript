@@ -1,11 +1,11 @@
-var studen1 {
+var student1 = {
     id : 119,
     name : 'mahfuz',
     marks : 91,
     phone : 0188149
     
 };
-var phone {
+var phone = {
 Color : 'black',
 Ram : 4,
 Rom : 7,
@@ -16,7 +16,7 @@ storage : '16gb'
 
 };
 
-var book {
+var book = {
     name : 'khondokar gk',
     totalPage: 870,
     height : '2m',
@@ -25,3 +25,4 @@ var book {
     price : 320,
     publisher : 'khandokar prokashoni'
 };
+
