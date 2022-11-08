@@ -2,9 +2,9 @@ var student1 = {
     id : 119,
     name : 'mahfuz',
     marks : 91,
-    phone : 0188149
+    phone : '010928',
     
-};
+  };
 var phone = {
 Color : 'black',
 Ram : 4,
